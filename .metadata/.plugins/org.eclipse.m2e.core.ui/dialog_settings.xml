@@ -2,6 +2,9 @@
 <section name="Workbench">
 	<section name="MavenProjectImportWizardPage">
 		<list key="rootDirectory">
+			<item value="C:\Users\joshua.m.a.villena\Desktop\JoshDojo\Microservices-practice\ratings-data-service"/>
+			<item value="C:\Users\joshua.m.a.villena\Desktop\JoshDojo\Microservices-practice\movie-info-service"/>
+			<item value="C:\Users\joshua.m.a.villena\Desktop\JoshDojo\Microservices-practice\movie-catalog-service"/>
 			<item value="C:\Users\joshua.m.a.villena\Desktop\JoshDojo\Microservices-practice\microservices-v1"/>
 			<item value="C:\Users\joshua.m.a.villena\Desktop\JoshDojo\Microservices-practice\social-multiplication"/>
 		</list>
