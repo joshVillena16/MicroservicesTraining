@@ -13,4 +13,7 @@
     <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.GetMapping"/>
     <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.PathVariable"/>
     <fullyQualifiedTypeName name="com.jmav.ratingsdataservice.models.Rating"/>
+    <fullyQualifiedTypeName name="com.jmav.jugtours.model.Event"/>
+    <fullyQualifiedTypeName name="com.jmav.jugtours.repository.GroupRepository"/>
+    <fullyQualifiedTypeName name="com.jmav.jugtours.model.Group"/>
 </qualifiedTypeNameHistroy>

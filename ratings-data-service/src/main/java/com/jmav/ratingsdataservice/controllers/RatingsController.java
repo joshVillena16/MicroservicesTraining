@@ -15,5 +15,4 @@ public class RatingsController {
 	public Rating getRating(@PathVariable("movieId") String movieId){
 		return new Rating(movieId, 4);
 	}
-
 }

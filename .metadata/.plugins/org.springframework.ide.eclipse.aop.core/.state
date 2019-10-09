@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <aop-reference-model>
-<aop-project name="social-multiplication-v1"/>
 <aop-project name="ratings-data-service"/>
 <aop-project name="movie-info-service"/>
+<aop-project name="jugtours"/>
 <aop-project name="movie-catalog-service"/>
 </aop-reference-model>
